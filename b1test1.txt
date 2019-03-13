@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5A9B-2140
+
+ Directory of C:\Test
+
+03/13/2019  02:17 AM    <DIR>          .
+03/13/2019  02:17 AM    <DIR>          ..
+03/13/2019  02:17 AM    <DIR>          .git
+03/13/2019  02:17 AM                 0 b1test1.txt
+03/13/2019  01:36 AM                 0 index.html
+03/13/2019  01:36 AM                 7 test1.txt
+               3 File(s)              7 bytes
+               3 Dir(s)  63,304,998,912 bytes free
